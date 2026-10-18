@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stringtable>
+    <info version="1.0" rgon_sta_version="0"/>
+    <languages>
+        <language id="21" index="0" name="Key"/>
+        <language id="0" index="1" name="English"/>
+        <language id="2" index="2" name="Japanese"/>
+        <language id="11" index="3" name="Korean"/>
+        <language id="13" index="4" name="Chinese (Simple)"/>
+        <language id="10" index="5" name="Russian"/>
+        <language id="5" index="6" name="German"/>
+        <language id="4" index="7" name="Spanish"/>
+        <language id="3" index="8" name="French"/>
+    </languages>
+
+    <!-- 每个 key 必须正好 8 条：英、日、韩、简中、俄、德、西、法。名称用泰拉瑞亚各语言的官方译名，没有官方译名的沿用英文 -->
+    <category name="Items">
+        <key name="ZENITH_ITEM_NAME">
+            <string>Zenith</string>
+            <string>Zenith</string>
+            <string>Zenith</string>
+            <string>天顶剑</string>
+            <string>Зенит</string>
+            <string>Zenit</string>
+            <string>Cénit</string>
+            <string>Zénith</string>
+        </key>
+        <key name="ZENITH_ITEM_DESC">
+            <string>All blades become one</string>
+            <string>All blades become one</string>
+            <string>All blades become one</string>
+            <string>万剑归一</string>
+            <string>All blades become one</string>
+            <string>All blades become one</string>
+            <string>All blades become one</string>
+            <string>All blades become one</string>
+        </key>
+    </category>
+</stringtable>

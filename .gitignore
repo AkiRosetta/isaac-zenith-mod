@@ -1,0 +1,5 @@
+# 仓库只公开 mod 本体和 README；开发工具、文档、开发笔记留在本地
+/*
+!/.gitignore
+!/README.md
+!/mod/

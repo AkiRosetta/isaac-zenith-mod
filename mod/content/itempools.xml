@@ -1,0 +1,55 @@
+<ItemPools>
+    <!-- 天顶剑放进所有可选的道具池；实际在哪些池出现由设置决定（默认天使房、恶魔房、宝箱房、商店），
+         没开启的池抽到天顶剑时会换成别的道具（main.lua MC_POST_GET_COLLECTIBLE） -->
+    <Pool Name="treasure">
+        <Item Name="Zenith" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    </Pool>
+    <Pool Name="shop">
+        <Item Name="Zenith" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    </Pool>
+    <Pool Name="angel">
+        <Item Name="Zenith" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    </Pool>
+    <Pool Name="devil">
+        <Item Name="Zenith" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    </Pool>
+    <Pool Name="boss">
+        <Item Name="Zenith" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    </Pool>
+    <Pool Name="secret">
+        <Item Name="Zenith" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    </Pool>
+    <Pool Name="ultraSecret">
+        <Item Name="Zenith" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    </Pool>
+    <Pool Name="curse">
+        <Item Name="Zenith" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    </Pool>
+    <Pool Name="goldenChest">
+        <Item Name="Zenith" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    </Pool>
+    <Pool Name="redChest">
+        <Item Name="Zenith" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    </Pool>
+    <Pool Name="greedTreasure">
+        <Item Name="Zenith" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    </Pool>
+    <Pool Name="greedShop">
+        <Item Name="Zenith" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    </Pool>
+    <Pool Name="greedAngel">
+        <Item Name="Zenith" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    </Pool>
+    <Pool Name="greedDevil">
+        <Item Name="Zenith" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    </Pool>
+    <Pool Name="greedBoss">
+        <Item Name="Zenith" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    </Pool>
+    <Pool Name="greedSecret">
+        <Item Name="Zenith" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    </Pool>
+    <Pool Name="greedCurse">
+        <Item Name="Zenith" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    </Pool>
+</ItemPools>

@@ -1,0 +1,4 @@
+<items gfxroot="gfx/items/" version="1" deathanm2="gfx/zenith/death_items.anm2">
+    <!-- 原版（未装 REPENTOGON）读取这里，显示英文。装了 REPENTOGON 时由 content-repentogon/items.xml 覆盖，按游戏语言显示。 -->
+    <passive id="1" name="Zenith" description="All blades become one" gfx="collectible_zenith.png" quality="4" tags="offensive" />
+</items>

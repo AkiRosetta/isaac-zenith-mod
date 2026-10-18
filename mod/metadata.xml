@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Zenith 天顶剑（泰拉瑞亚）【必须安装 REPENTOGON / Requires REPENTOGON】</name>
+    <directory>zenith</directory>
+    <id>3822358583</id>
+    <description>[h1][b]⚠ 必须安装 REPENTOGON（忏悔龙）才能使用！⚠[/b][/h1]
+[h1][b]⚠ Requires REPENTOGON! ⚠[/b][/h1]
+没有安装 REPENTOGON（忏悔龙）时，本 mod 的大部分功能（接管攻击、道具联动、拖尾等）都无法工作。请先安装 REPENTOGON，再订阅本 mod。
+
+[h2]天顶剑[/h2]
+从泰拉瑞亚带来的终极武器“天顶剑”，作为全新的 4 级被动道具加入以撒。射击键推动准星，飞剑沿泰拉原版的椭圆轨迹连续飞向准星，带拖尾、残影、受击音效和伤害数字。
+
+[list]
+[*][b]出现位置[/b]：默认天使房、恶魔房、宝箱房、商店；可在模组配置菜单里自由开关 10 种道具池
+[*][b]攻击方式[/b]：射击键推动准星（手感照搬原版“标记”），飞剑自动连续飞向准星；丢弃键收起准星
+[*][b]飞剑[/b]：21 把泰拉剑随机出现，轨迹、拖尾、星闪、粒子照搬泰拉原版；穿墙、无限穿透，能打坏火堆、大便、TNT，能推动炸弹
+[*][b]成长[/b]：伤害、射速、射程（准星最远距离）、弹速（准星速度）、幸运（暴击率）都有作用；15% 暴击率，每点幸运 +5%
+[*][b]多拿几个[/b]：每多一个，伤害倍率提高
+[/list]
+
+[h2]跟班与角色[/h2]
+[list]
+[*]Incubus、扭曲双子、吉罗、里夏娃的血块会跟着扔小飞剑；莉莉丝本人不出剑，由 Incubus 出剑
+[*]适配全部可选角色，包括遗骸与灵魂切换、里拉撒路翻转、雅各和以扫、伯大尼等
+[/list]
+
+[h2]道具联动（部分）[/h2]
+[list]
+[*][b]硫磺火[/b]：剑裹血光，命中上硫磺标记，被标记的敌人受到更高伤害，被剑打死时标记传染
+[*][b]科技 / 科技 2 / 科技 X[/b]：命中时从眼睛射激光 / 一道激光连到准星 / 每把剑带激光环
+[*][b]胎儿博士 / 史诗胎儿[/b]：准星处放炸弹 / 落导弹
+[*][b]妈刀 / 英灵剑[/b]：部分飞剑变成妈刀或英灵剑（满血时为剑气），英灵剑能拾取掉落物、打开箱子
+[*][b]卢多维科 / 小行星[/b]：飞剑绕准星 / 绕角色转圈
+[*][b]小魔角、圣光、雅各的梯子等命中效果[/b]：照原版触发
+[*][b]背刺、硫酸、铅笔、巫师帽、洛基之角、鬼椒、神性……[/b]都有对应效果
+[*][b]标记、玄秘魔眼、蓄力类、分裂泪弹类等[/b]：攻击方式被完全覆盖，拿着天顶剑时这些道具的效果和属性都不生效（失去天顶剑后恢复）
+[/list]
+所有联动在 External Item Descriptions（EID）里都有说明。
+
+[h2]设置[/h2]
+装了 Mod Config Menu 时，按 L 打开菜单找到“天顶剑”，可以调整：伤害数字、拖尾、发光效果、准星颜色、挥剑 / 命中音量，以及天顶剑出现在哪些道具池。
+
+[h2]控制台[/h2]
+输入 [b]zenith_give[/b] 直接获得天顶剑（[b]zenith_give 1[/b] 给 2P）。道具编号会随其他 mod 变化，请不要用 giveitem 加编号。
+
+[h2]前置与推荐[/h2]
+[list]
+[*][b]REPENTOGON（忏悔龙）——必须安装[/b]
+[*]推荐：External Item Descriptions、Mod Config Menu
+[/list]
+
+[h2]素材[/h2]
+飞剑贴图、音效、字体来自《泰拉瑞亚》（Terraria），版权归 Re-Logic 所有。
+
+[hr][/hr]
+[h2]English[/h2]
+[b]REQUIRES REPENTOGON. Most features will not work without it.[/b]
+
+Terraria's ultimate sword joins Isaac as a new quality 4 passive item. Fire keys move a crosshair; swords fly to it in Terraria's original elliptical paths, with trails, afterimages, hit sounds and damage numbers.
+[list]
+[*]Found in angel, devil, treasure rooms and shops by default; item pools can be toggled in Mod Config Menu
+[*]Synergies with Brimstone, the Technology family, Dr./Epic Fetus, Mom's Knife, Spirit Sword, Ludovico, Tiny Planet and many more; all described in EID
+[*]Mimic familiars (Incubus, Twisted Pair, Gello, clots) throw swords too; all characters supported
+[*]Console: [b]zenith_give[/b] gives the item
+[/list]
+Sword sprites, sounds and fonts are from Terraria, (c) Re-Logic.
+
+[b]⚠ 再次提醒：必须安装 REPENTOGON（忏悔龙）！ / Requires REPENTOGON! ⚠[/b]</description>
+    <version>1.0.0</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Graphics"/>
+    <tag id="Sound Effects"/>
+</metadata>

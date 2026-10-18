@@ -1,0 +1,8 @@
+<sounds root="sfx/zenith/">
+    <sound name="Zenith Swing">
+        <sample weight="1" path="zenith_swing.wav" />
+    </sound>
+    <sound name="Zenith Hit">
+        <sample weight="1" path="zenith_hit.wav" />
+    </sound>
+</sounds>
